@@ -1,6 +1,6 @@
-#Easy Chocolate Fudge
+# Easy Chocolate Fudge
 
-##Ingredients
+## Ingredients
 
 + 400g dark or milk chocolate (I use Galaxy)
 + 397g can condensed milk (this is a standard size, for some reason)
@@ -8,7 +8,7 @@
 + 175g icing sugar (plus approx. 25g for dusting)
 + A splash of vanilla (optional)
 
-##Implements
+## Implements
 
 + Baking tray/tin (the one I have is about A4-sized, and about a centimetre deep)
 + Baking/greaseproof paper
@@ -18,7 +18,7 @@
 + A sharp knife or a pizza cutter
 + A set of scales
 
-##Instructions
+## Instructions
 
 1. Break or chop the chocolate into small chunks. If the chocolate has been frozen beforehand (which I advocate) this can easily be achieved by dropping it on a tiled surface, then whacking it against the worktop to break up any larger pieces that survived the initial impact intact.
 
